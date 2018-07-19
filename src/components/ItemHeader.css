@@ -1,0 +1,25 @@
+.account-group{
+    font-size: 14px;
+    line-height: 20px;
+}
+.profile-avatar{
+    float: left;
+    margin-top: 3px;
+    margin-left: -58px; 
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+.user-full-name{
+    color: #14171a;
+    font-weight: bold;
+}
+.username , .time{ 
+    color: #657786;
+}
+.options{
+    color:#657786;
+    float: right;
+    margin: 0 10px;
+}

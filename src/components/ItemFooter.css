@@ -1,0 +1,22 @@
+.ItemFooter{
+    margin-top: 15px;
+    margin-bottom: 2px;
+    height: 18px;
+}
+.item-comment{
+    color: #657786;
+    margin-right: 25px;
+}
+
+.ItemFooter i{
+    margin-right: 7px;  
+}
+.hblue:hover{
+    color: #1da1f2
+}
+.hgreen:hover{
+    color:#77b255;
+}
+.hred:hover{
+    color: red
+}

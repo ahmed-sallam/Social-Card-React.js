@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+a{
+  text-decoration: inherit;
+}
+body{
+  background-color: #e6ecf0;
+  padding: 0;
+}
